@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 👯 I’m looking to collaborate on **A AI Project**
+- 👯 I’m looking to collaborate on a ** AI Project**
 
 - 🤝 I’m looking for help with **AI Implementaition**
 
