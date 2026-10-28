@@ -51,33 +51,45 @@ hobbies: [AI Engineering, Open Source, Hardware Tinkering]
 
 - 🔭 **I’m currently working on**: Building scalable, robust web applications and developer tooling at **Bu Marca**.
 - 🌱 **I’m currently exploring**: AI engineering, LLMs, and intelligent agentic workflows.
-- 💬 **Ask me about**: `TypeScript`, `Next.js`, `NestJS`, `Rust`, `GraphQL`, and database architecture.
+- 💬 **Ask me about**: `TypeScript`, `Next.js`, `NestJS`, `Node.js`, `AI / LLM Integration`, and cloud database architecture.
 - ⚡ **Philosophy**: Designing clean, maintainable systems that turn complex ideas into seamless user experiences.
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Arsenal & Specialties
 
 <div align="center">
 
-#### 🎨 Frontend & Design
+#### 🎨 Frontend Engineering & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,storybook&theme=dark" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,vite,redux,storybook&theme=dark" alt="Frontend skills" />
 </p>
 
-#### ⚙️ Backend, Systems & APIs
+#### ⚙️ Backend, Microservices & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,rust,py,graphql&theme=dark" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,fastapi,graphql,prisma&theme=dark" alt="Backend skills" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### 🧠 AI Mastery & LLM Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Database skills" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Agentic_AI-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="Agentic AI" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI Frameworks" />
 </p>
 
-#### ☁️ Cloud, DevOps & Hardware
+#### 🗄️ Databases & BaaS Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,fedora,arduino&theme=dark" alt="DevOps and Hardware skills" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,sqlite,mongodb,redis&theme=dark" alt="Database and BaaS skills" />
+</p>
+
+#### ☁️ Cloud, Servers & Linux DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,aws,docker,linux,fedora,bash,git,githubactions&theme=dark" alt="Cloud and DevOps skills" />
 </p>
 
 </div>
