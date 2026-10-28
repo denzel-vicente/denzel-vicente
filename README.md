@@ -103,10 +103,10 @@ hobbies: [AI Engineering, Open Source, Hardware Tinkering]
     <img src="https://streak-stats.demolab.com?user=denzel-vicente&theme=catppuccin_mocha&hide_border=true&border_radius=8" height="175" alt="Streak Stats" />
   </a>
   <a href="https://github.com/denzel-vicente">
-    <img src="https://github-readme-stats.vercel.app/api?username=denzel-vicente&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=8&count_private=true" height="175" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=denzel-vicente&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=8&count_private=true" height="175" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denzel-vicente">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-vicente&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=8" height="175" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=denzel-vicente&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=8" height="175" alt="Top Languages" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ hobbies: [AI Engineering, Open Source, Hardware Tinkering]
 
 <div align="center">
   <a href="https://github.com/denzel-vicente">
-    <img src="https://github-profile-trophy.vercel.app/?username=denzel-vicente&theme=catppuccin&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=denzel-vicente&theme=catppuccin&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </div>
 
