@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/denzel-vicente">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=B4BEFE&background=1E1E2E00&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Denzel+Vicente;Full-Stack+Developer+%7C+Tech+Enthusiast;Software+Engineer+%40+Bu+Marca;Exploring+AI+Engineering+%26+Agentic+Workflows;Crafting+Scalable+%26+Elegant+Web+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=B4BEFE&background=1E1E2E00&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Denzel+Vicente;Full-Stack+Developer+%7C+AI+Enthusiast;Software+Engineer+%40+Bu+Marca;Exploring+AI+Engineering+%26+Agentic+Workflows;Building+Intelligent+%26+Scalable+Web+Systems" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -45,13 +45,13 @@ name: Denzel Vicente
 role: Software Engineer
 organization: Bu Marca
 origin: Cape Verde 🇨🇻
-primary_focus: Full-Stack Architecture, Modern Tech & Web Systems
+primary_focus: Full-Stack Engineering, AI Systems & Modern Web Architecture
 hobbies: [AI Engineering, Open Source, Hardware Tinkering]
 ```
 
 - 🔭 **I’m currently working on**: Building scalable, robust web applications and developer tooling at **Bu Marca**.
 - 🌱 **I’m currently exploring**: AI engineering, LLMs, and intelligent agentic workflows.
-- 💬 **Ask me about**: `TypeScript`, `Next.js`, `NestJS`, `Node.js`, `AI / LLM Integration`, and cloud database architecture.
+- 💬 **Ask me about**: `AI & Intelligent Systems`, `Full-Stack Architecture`, `Next.js`, `NestJS`, `Node.js`, and cloud database design.
 - ⚡ **Philosophy**: Designing clean, maintainable systems that turn complex ideas into seamless user experiences.
 
 ---
