@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/denzel-vicente">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=B4BEFE&background=1E1E2E00&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Denzel+Vicente;Full-Stack+Developer+%7C+TypeScript+Enthusiast;Software+Engineer+%40+Bu+Marca;Exploring+AI+Engineering+%26+Agentic+Workflows;Crafting+Scalable+%26+Elegant+Web+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=B4BEFE&background=1E1E2E00&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Denzel+Vicente;Full-Stack+Developer+%7C+Tech+Enthusiast;Software+Engineer+%40+Bu+Marca;Exploring+AI+Engineering+%26+Agentic+Workflows;Crafting+Scalable+%26+Elegant+Web+Systems" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -45,7 +45,7 @@ name: Denzel Vicente
 role: Software Engineer
 organization: Bu Marca
 origin: Cape Verde 🇨🇻
-primary_focus: Full-Stack Architecture, TypeScript & Modern Web Systems
+primary_focus: Full-Stack Architecture, Modern Tech & Web Systems
 hobbies: [AI Engineering, Open Source, Hardware Tinkering]
 ```
 
